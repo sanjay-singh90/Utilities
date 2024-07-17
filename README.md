@@ -13,8 +13,8 @@ This script monitors CPU, RAM, and disk usage on a Linux server, sends alerts vi
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-repo/resource_monitor.git
-    cd resource_monitor
+    git clone https://github.com/sanjay-singh90/Utilities.git
+    cd Utilities
     ```
 
 2. **Install dependencies**:
