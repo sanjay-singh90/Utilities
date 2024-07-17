@@ -1,0 +1,11 @@
+[Unit]
+Description=Resource Utilization Monitor with Cleanup
+
+[Service]
+ExecStart=/usr/bin/python3 /path/to/resource_monitor_with_cleanup.py
+Restart=always
+User=nobody
+Group=nogroup
+
+[Install]
+WantedBy=multi-user.target
